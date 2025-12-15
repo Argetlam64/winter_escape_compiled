@@ -34,7 +34,7 @@
 
 # 7. Uporaba zunanjih virov
 
-- Zunanji viri: [itch.io](http://itch.io) in freesound.org
+- Zunanji viri: [itch.io](http://itch.io) in freesound.org (vsi viri v sourses.txt)
 - Uporaba AI: Pomoč pri razhroščevanju težjih problemov
 
 # 8. Status izdelka
