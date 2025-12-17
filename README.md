@@ -1,43 +1,53 @@
-# Povzetek Winter Escape
+# Winter Escape – Summary
 
-# 1. Ekipa:
+1. Team:
 
-- Maj Verhovnik Marovšek (logika, razhroščevanje)
-- Nika Zupanc (Izdelovanje mape)
-- Aleš Satler (Vse ostalo)
+Maj Verhovnik Marovšek (logic, debugging)
 
-# 2. Ime igre:
+Nika Zupanc (map creation)
 
-- Winter escape
+Aleš Satler (everything else)
 
-# 3. Povzetek koncepta
+2. Game title:
 
-- Cilj igre: Najdi ogenj in ga prižgi z lesom (potrebnega 100 lesa, čarovnik menja kovance za les)
-- Glahna mehanika: Pobiranje kovancov, ubijanje kostkotov
-- Ideja za interpretacijo: Zima prihaja, potrebno je zakuriti ogenj preden zmrzneš
+Winter Escape
 
-# 4. Ključne mehanike
+3. Concept summary
 
-- Premikanje (Wall jump, dash, walk, jump)
-- Napadanje (jump attack, attack)
-- Pobiranje kovancev
-- Menjava kovancov za les pri čarovniku
+Goal: Find the fire and light it using wood (100 wood required; the wizard exchanges coins for wood)
 
-# 5. Tehnologije in orodja
+Main mechanics: Collecting coins, killing skeletons
 
-- Godot game engine
+Narrative idea: Winter is coming; you must light the fire before you freeze
 
-# 6. Glavni poudarki
+4. Key mechanics
 
-- Tehnično zahtevno: premikanje igralca, boj z okostnjaki
-- Unikatno: Labirint, okolica
+Movement (wall jump, dash, walk, jump)
 
-# 7. Uporaba zunanjih virov
+Combat (jump attack, attack)
 
-- Zunanji viri: [itch.io](http://itch.io) in freesound.org (vsi viri v sourses.txt)
-- Uporaba AI: Pomoč pri razhroščevanju težjih problemov
+Coin collection
 
-# 8. Status izdelka
+Exchanging coins for wood with the wizard
 
-- Implementirane osnovne funkcionalnosti
-- Končano
+5. Technologies and tools
+
+Godot game engine
+
+6. Main highlights
+
+Technically demanding: player movement, combat with skeletons
+
+Unique: labyrinth, environment
+
+7. Use of external resources
+
+External sources: itch.io and freesound.org (all sources listed in sources.txt)
+
+AI usage: assistance with debugging harder problems
+
+8. Product status
+
+Core functionality implemented
+
+Finished
